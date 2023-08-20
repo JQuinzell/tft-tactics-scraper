@@ -1,0 +1,2905 @@
+{
+    "origins": [
+        "Darkin",
+        "Demacia",
+        "Empress",
+        "Freljord",
+        "Ionia",
+        "Noxus",
+        "Piltover",
+        "Shadow Isles",
+        "Shurima",
+        "Targon",
+        "Void",
+        "Wanderer",
+        "Yordle",
+        "Zaun"
+    ],
+    "classes": [
+        "Bastion",
+        "Bruiser",
+        "Challenger",
+        "Deadeye",
+        "Gunner",
+        "Invoker",
+        "Juggernaut",
+        "Multicaster",
+        "Redeemer",
+        "Rogue",
+        "Slayer",
+        "Sorcerer",
+        "Strategist",
+        "Technogenius"
+    ],
+    "champions": {
+        "Aatrox": {
+            "name": "Aatrox",
+            "origin": [
+                "Darkin"
+            ],
+            "class": [
+                "Juggernaut",
+                "Slayer"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 64,
+                    "attackSpeed": 0.8,
+                    "damage": 80,
+                    "range": 1,
+                    "health": 1100,
+                    "mana": 60,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "2": {
+                    "dps": 115,
+                    "attackSpeed": 0.8,
+                    "damage": 144,
+                    "range": 1,
+                    "health": 1980,
+                    "mana": 60,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "3": {
+                    "dps": 207,
+                    "attackSpeed": 0.8,
+                    "damage": 259,
+                    "range": 1,
+                    "health": 3564,
+                    "mana": 60,
+                    "armor": 60,
+                    "mr": 60
+                }
+            }
+        },
+        "Ahri": {
+            "name": "Ahri",
+            "origin": [
+                "Ionia"
+            ],
+            "class": [
+                "Sorcerer"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 850,
+                    "mana": 50,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1530,
+                    "mana": 50,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 2754,
+                    "mana": 50,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "Akshan": {
+            "name": "Akshan",
+            "origin": [
+                "Shurima"
+            ],
+            "class": [
+                "Deadeye"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 49,
+                    "attackSpeed": 0.75,
+                    "damage": 65,
+                    "range": 4,
+                    "health": 700,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "2": {
+                    "dps": 88,
+                    "attackSpeed": 0.75,
+                    "damage": 117,
+                    "range": 4,
+                    "health": 1260,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "3": {
+                    "dps": 158,
+                    "attackSpeed": 0.75,
+                    "damage": 211,
+                    "range": 4,
+                    "health": 2268,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                }
+            }
+        },
+        "Aphelios": {
+            "name": "Aphelios",
+            "origin": [
+                "Targon"
+            ],
+            "class": [
+                "Deadeye"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 48,
+                    "attackSpeed": 0.8,
+                    "damage": 60,
+                    "range": 4,
+                    "health": 800,
+                    "mana": 140,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 86,
+                    "attackSpeed": 0.8,
+                    "damage": 108,
+                    "range": 4,
+                    "health": 1440,
+                    "mana": 140,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 156,
+                    "attackSpeed": 0.8,
+                    "damage": 194,
+                    "range": 4,
+                    "health": 2592,
+                    "mana": 140,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ashe": {
+            "name": "Ashe",
+            "origin": [
+                "Freljord"
+            ],
+            "class": [
+                "Deadeye"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 35,
+                    "attackSpeed": 0.7,
+                    "damage": 50,
+                    "range": 5,
+                    "health": 600,
+                    "mana": 60,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "2": {
+                    "dps": 63,
+                    "attackSpeed": 0.7,
+                    "damage": 90,
+                    "range": 5,
+                    "health": 1080,
+                    "mana": 60,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "3": {
+                    "dps": 113,
+                    "attackSpeed": 0.7,
+                    "damage": 162,
+                    "range": 5,
+                    "health": 1944,
+                    "mana": 60,
+                    "armor": 20,
+                    "mr": 20
+                }
+            }
+        },
+        "Azir": {
+            "name": "Azir",
+            "origin": [
+                "Shurima"
+            ],
+            "class": [
+                "Strategist"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 23,
+                    "attackSpeed": 0.75,
+                    "damage": 30,
+                    "range": 4,
+                    "health": 750,
+                    "mana": 50,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 41,
+                    "attackSpeed": 0.75,
+                    "damage": 54,
+                    "range": 4,
+                    "health": 1350,
+                    "mana": 50,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 73,
+                    "attackSpeed": 0.75,
+                    "damage": 97,
+                    "range": 4,
+                    "health": 2430,
+                    "mana": 50,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Belveth": {
+            "name": "Belveth",
+            "origin": [
+                "Empress",
+                "Void"
+            ],
+            "class": [],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 68,
+                    "attackSpeed": 0.85,
+                    "damage": 80,
+                    "range": 2,
+                    "health": 1100,
+                    "mana": 55,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 122,
+                    "attackSpeed": 0.85,
+                    "damage": 144,
+                    "range": 2,
+                    "health": 1980,
+                    "mana": 55,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 220,
+                    "attackSpeed": 0.85,
+                    "damage": 259,
+                    "range": 2,
+                    "health": 3564,
+                    "mana": 55,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Cassiopeia": {
+            "name": "Cassiopeia",
+            "origin": [
+                "Noxus",
+                "Shurima"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 28,
+                    "attackSpeed": 0.7,
+                    "damage": 40,
+                    "range": 4,
+                    "health": 500,
+                    "mana": 40,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "2": {
+                    "dps": 50,
+                    "attackSpeed": 0.7,
+                    "damage": 72,
+                    "range": 4,
+                    "health": 900,
+                    "mana": 40,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "3": {
+                    "dps": 91,
+                    "attackSpeed": 0.7,
+                    "damage": 130,
+                    "range": 4,
+                    "health": 1620,
+                    "mana": 40,
+                    "armor": 20,
+                    "mr": 20
+                }
+            }
+        },
+        "Chogath": {
+            "name": "Chogath",
+            "origin": [
+                "Void"
+            ],
+            "class": [
+                "Bruiser"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 25,
+                    "attackSpeed": 0.5,
+                    "damage": 50,
+                    "range": 1,
+                    "health": 700,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 45,
+                    "attackSpeed": 0.5,
+                    "damage": 90,
+                    "range": 1,
+                    "health": 1260,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 81,
+                    "attackSpeed": 0.5,
+                    "damage": 162,
+                    "range": 1,
+                    "health": 2268,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Darius": {
+            "name": "Darius",
+            "origin": [
+                "Noxus"
+            ],
+            "class": [
+                "Juggernaut"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 53,
+                    "attackSpeed": 0.75,
+                    "damage": 70,
+                    "range": 1,
+                    "health": 750,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 95,
+                    "attackSpeed": 0.75,
+                    "damage": 126,
+                    "range": 1,
+                    "health": 1350,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 170,
+                    "attackSpeed": 0.75,
+                    "damage": 227,
+                    "range": 1,
+                    "health": 2430,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Ekko": {
+            "name": "Ekko",
+            "origin": [
+                "Piltover",
+                "Zaun"
+            ],
+            "class": [
+                "Rogue"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 40,
+                    "attackSpeed": 0.8,
+                    "damage": 50,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 45,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 72,
+                    "attackSpeed": 0.8,
+                    "damage": 90,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 45,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 130,
+                    "attackSpeed": 0.8,
+                    "damage": 162,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 45,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "Galio": {
+            "name": "Galio",
+            "origin": [
+                "Demacia"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 35,
+                    "attackSpeed": 0.5,
+                    "damage": 70,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 140,
+                    "armor": 45,
+                    "mr": 45
+                },
+                "2": {
+                    "dps": 63,
+                    "attackSpeed": 0.5,
+                    "damage": 126,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 140,
+                    "armor": 45,
+                    "mr": 45
+                },
+                "3": {
+                    "dps": 113,
+                    "attackSpeed": 0.5,
+                    "damage": 227,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 140,
+                    "armor": 45,
+                    "mr": 45
+                }
+            }
+        },
+        "Garen": {
+            "name": "Garen",
+            "origin": [
+                "Demacia"
+            ],
+            "class": [
+                "Juggernaut"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 53,
+                    "attackSpeed": 0.75,
+                    "damage": 70,
+                    "range": 1,
+                    "health": 850,
+                    "mana": 80,
+                    "armor": 45,
+                    "mr": 45
+                },
+                "2": {
+                    "dps": 95,
+                    "attackSpeed": 0.75,
+                    "damage": 126,
+                    "range": 1,
+                    "health": 1530,
+                    "mana": 80,
+                    "armor": 45,
+                    "mr": 45
+                },
+                "3": {
+                    "dps": 170,
+                    "attackSpeed": 0.75,
+                    "damage": 227,
+                    "range": 1,
+                    "health": 2754,
+                    "mana": 80,
+                    "armor": 45,
+                    "mr": 45
+                }
+            }
+        },
+        "Gwen": {
+            "name": "Gwen",
+            "origin": [
+                "Shadow Isles"
+            ],
+            "class": [
+                "Slayer"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 44,
+                    "attackSpeed": 0.8,
+                    "damage": 55,
+                    "range": 2,
+                    "health": 1000,
+                    "mana": 35,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 79,
+                    "attackSpeed": 0.8,
+                    "damage": 99,
+                    "range": 2,
+                    "health": 1800,
+                    "mana": 35,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 143,
+                    "attackSpeed": 0.8,
+                    "damage": 178,
+                    "range": 2,
+                    "health": 3240,
+                    "mana": 35,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Heimerdinger": {
+            "name": "Heimerdinger",
+            "origin": [
+                "Piltover",
+                "Yordle"
+            ],
+            "class": [
+                "Technogenius"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 30,
+                    "attackSpeed": 0.75,
+                    "damage": 40,
+                    "range": 4,
+                    "health": 750,
+                    "mana": 160,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 54,
+                    "attackSpeed": 0.75,
+                    "damage": 72,
+                    "range": 4,
+                    "health": 1350,
+                    "mana": 160,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 97,
+                    "attackSpeed": 0.75,
+                    "damage": 130,
+                    "range": 4,
+                    "health": 2430,
+                    "mana": 160,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Irelia": {
+            "name": "Irelia",
+            "origin": [
+                "Ionia"
+            ],
+            "class": [
+                "Challenger"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 33,
+                    "attackSpeed": 0.65,
+                    "damage": 50,
+                    "range": 1,
+                    "health": 700,
+                    "mana": 80,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 59,
+                    "attackSpeed": 0.65,
+                    "damage": 90,
+                    "range": 1,
+                    "health": 1260,
+                    "mana": 80,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 105,
+                    "attackSpeed": 0.65,
+                    "damage": 162,
+                    "range": 1,
+                    "health": 2268,
+                    "mana": 80,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "Jarvan IV": {
+            "name": "Jarvan IV",
+            "origin": [
+                "Demacia"
+            ],
+            "class": [
+                "Strategist"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 39,
+                    "attackSpeed": 0.65,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 1000,
+                    "mana": 180,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "2": {
+                    "dps": 70,
+                    "attackSpeed": 0.65,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1800,
+                    "mana": 180,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "3": {
+                    "dps": 126,
+                    "attackSpeed": 0.65,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 3240,
+                    "mana": 180,
+                    "armor": 60,
+                    "mr": 60
+                }
+            }
+        },
+        "Jayce": {
+            "name": "Jayce",
+            "origin": [
+                "Piltover"
+            ],
+            "class": [
+                "Gunner"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 49,
+                    "attackSpeed": 0.75,
+                    "damage": 65,
+                    "range": 4,
+                    "health": 700,
+                    "mana": 120,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "2": {
+                    "dps": 88,
+                    "attackSpeed": 0.75,
+                    "damage": 117,
+                    "range": 4,
+                    "health": 1260,
+                    "mana": 120,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "3": {
+                    "dps": 158,
+                    "attackSpeed": 0.75,
+                    "damage": 211,
+                    "range": 4,
+                    "health": 2268,
+                    "mana": 120,
+                    "armor": 25,
+                    "mr": 25
+                }
+            }
+        },
+        "Jhin": {
+            "name": "Jhin",
+            "origin": [
+                "Ionia"
+            ],
+            "class": [
+                "Deadeye"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 38,
+                    "attackSpeed": 0.7,
+                    "damage": 54,
+                    "range": 3,
+                    "health": 504,
+                    "mana": 144,
+                    "armor": 14,
+                    "mr": 14
+                },
+                "2": {
+                    "dps": 68,
+                    "attackSpeed": 0.7,
+                    "damage": 97,
+                    "range": 3,
+                    "health": 907.2,
+                    "mana": 144,
+                    "armor": 14,
+                    "mr": 14
+                },
+                "3": {
+                    "dps": 122,
+                    "attackSpeed": 0.7,
+                    "damage": 175,
+                    "range": 3,
+                    "health": 1632.96,
+                    "mana": 144,
+                    "armor": 14,
+                    "mr": 14
+                }
+            }
+        },
+        "Jinx": {
+            "name": "Jinx",
+            "origin": [
+                "Zaun"
+            ],
+            "class": [
+                "Gunner"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 41,
+                    "attackSpeed": 0.75,
+                    "damage": 55,
+                    "range": 4,
+                    "health": 600,
+                    "mana": 75,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "2": {
+                    "dps": 74,
+                    "attackSpeed": 0.75,
+                    "damage": 99,
+                    "range": 4,
+                    "health": 1080,
+                    "mana": 75,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "3": {
+                    "dps": 134,
+                    "attackSpeed": 0.75,
+                    "damage": 178,
+                    "range": 4,
+                    "health": 1944,
+                    "mana": 75,
+                    "armor": 20,
+                    "mr": 20
+                }
+            }
+        },
+        "Kaisa": {
+            "name": "Kaisa",
+            "origin": [
+                "Void"
+            ],
+            "class": [
+                "Challenger"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 36,
+                    "attackSpeed": 0.8,
+                    "damage": 45,
+                    "range": 4,
+                    "health": 850,
+                    "mana": 110,
+                    "armor": 35,
+                    "mr": 35
+                },
+                "2": {
+                    "dps": 65,
+                    "attackSpeed": 0.8,
+                    "damage": 81,
+                    "range": 4,
+                    "health": 1530,
+                    "mana": 110,
+                    "armor": 35,
+                    "mr": 35
+                },
+                "3": {
+                    "dps": 117,
+                    "attackSpeed": 0.8,
+                    "damage": 146,
+                    "range": 4,
+                    "health": 2754,
+                    "mana": 110,
+                    "armor": 35,
+                    "mr": 35
+                }
+            }
+        },
+        "Kalista": {
+            "name": "Kalista",
+            "origin": [
+                "Shadow Isles"
+            ],
+            "class": [
+                "Challenger"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 38,
+                    "attackSpeed": 0.85,
+                    "damage": 45,
+                    "range": 4,
+                    "health": 650,
+                    "mana": 80,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "2": {
+                    "dps": 69,
+                    "attackSpeed": 0.85,
+                    "damage": 81,
+                    "range": 4,
+                    "health": 1170,
+                    "mana": 80,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "3": {
+                    "dps": 124,
+                    "attackSpeed": 0.85,
+                    "damage": 146,
+                    "range": 4,
+                    "health": 2106,
+                    "mana": 80,
+                    "armor": 25,
+                    "mr": 25
+                }
+            }
+        },
+        "Karma": {
+            "name": "Karma",
+            "origin": [
+                "Ionia"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 31,
+                    "attackSpeed": 0.7,
+                    "damage": 45,
+                    "range": 4,
+                    "health": 700,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "2": {
+                    "dps": 57,
+                    "attackSpeed": 0.7,
+                    "damage": 81,
+                    "range": 4,
+                    "health": 1260,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "3": {
+                    "dps": 102,
+                    "attackSpeed": 0.7,
+                    "damage": 146,
+                    "range": 4,
+                    "health": 2268,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                }
+            }
+        },
+        "Kassadin": {
+            "name": "Kassadin",
+            "origin": [
+                "Void"
+            ],
+            "class": [
+                "Bastion"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 35,
+                    "attackSpeed": 0.7,
+                    "damage": 50,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 100,
+                    "armor": 45,
+                    "mr": 45
+                },
+                "2": {
+                    "dps": 63,
+                    "attackSpeed": 0.7,
+                    "damage": 90,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 100,
+                    "armor": 45,
+                    "mr": 45
+                },
+                "3": {
+                    "dps": 113,
+                    "attackSpeed": 0.7,
+                    "damage": 162,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 100,
+                    "armor": 45,
+                    "mr": 45
+                }
+            }
+        },
+        "Katarina": {
+            "name": "Katarina",
+            "origin": [
+                "Noxus"
+            ],
+            "class": [
+                "Rogue"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 38,
+                    "attackSpeed": 0.75,
+                    "damage": 50,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 80,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 68,
+                    "attackSpeed": 0.75,
+                    "damage": 90,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 80,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 122,
+                    "attackSpeed": 0.75,
+                    "damage": 162,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 80,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "Kayle": {
+            "name": "Kayle",
+            "origin": [
+                "Demacia"
+            ],
+            "class": [
+                "Slayer"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 19,
+                    "attackSpeed": 0.75,
+                    "damage": 25,
+                    "range": 4,
+                    "health": 500,
+                    "mana": null,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "2": {
+                    "dps": 34,
+                    "attackSpeed": 0.75,
+                    "damage": 45,
+                    "range": 4,
+                    "health": 900,
+                    "mana": null,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "3": {
+                    "dps": 61,
+                    "attackSpeed": 0.75,
+                    "damage": 81,
+                    "range": 4,
+                    "health": 1620,
+                    "mana": null,
+                    "armor": 15,
+                    "mr": 15
+                }
+            }
+        },
+        "Kled": {
+            "name": "Kled",
+            "origin": [
+                "Noxus",
+                "Yordle"
+            ],
+            "class": [
+                "Slayer"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 44,
+                    "attackSpeed": 0.75,
+                    "damage": 58,
+                    "range": 1,
+                    "health": 550,
+                    "mana": 175,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 78,
+                    "attackSpeed": 0.75,
+                    "damage": 104,
+                    "range": 1,
+                    "health": 990,
+                    "mana": 175,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 141,
+                    "attackSpeed": 0.75,
+                    "damage": 188,
+                    "range": 1,
+                    "health": 1782,
+                    "mana": 175,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "KSante": {
+            "name": "KSante",
+            "origin": [
+                "Shurima"
+            ],
+            "class": [
+                "Bastion"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 42,
+                    "attackSpeed": 0.7,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 1000,
+                    "mana": 60,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "2": {
+                    "dps": 76,
+                    "attackSpeed": 0.7,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1800,
+                    "mana": 60,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "3": {
+                    "dps": 136,
+                    "attackSpeed": 0.7,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 3240,
+                    "mana": 60,
+                    "armor": 60,
+                    "mr": 60
+                }
+            }
+        },
+        "Lissandra": {
+            "name": "Lissandra",
+            "origin": [
+                "Freljord"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 35,
+                    "attackSpeed": 0.7,
+                    "damage": 50,
+                    "range": 2,
+                    "health": 800,
+                    "mana": 90,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 63,
+                    "attackSpeed": 0.7,
+                    "damage": 90,
+                    "range": 2,
+                    "health": 1440,
+                    "mana": 90,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 113,
+                    "attackSpeed": 0.7,
+                    "damage": 162,
+                    "range": 2,
+                    "health": 2592,
+                    "mana": 90,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "Lux": {
+            "name": "Lux",
+            "origin": [
+                "Demacia"
+            ],
+            "class": [
+                "Sorcerer"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 31,
+                    "attackSpeed": 0.7,
+                    "damage": 45,
+                    "range": 4,
+                    "health": 750,
+                    "mana": 45,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 57,
+                    "attackSpeed": 0.7,
+                    "damage": 81,
+                    "range": 4,
+                    "health": 1350,
+                    "mana": 45,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 102,
+                    "attackSpeed": 0.7,
+                    "damage": 146,
+                    "range": 4,
+                    "health": 2430,
+                    "mana": 45,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Malzahar": {
+            "name": "Malzahar",
+            "origin": [
+                "Void"
+            ],
+            "class": [
+                "Sorcerer"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 28,
+                    "attackSpeed": 0.7,
+                    "damage": 40,
+                    "range": 4,
+                    "health": 500,
+                    "mana": 50,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "2": {
+                    "dps": 50,
+                    "attackSpeed": 0.7,
+                    "damage": 72,
+                    "range": 4,
+                    "health": 900,
+                    "mana": 50,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "3": {
+                    "dps": 91,
+                    "attackSpeed": 0.7,
+                    "damage": 130,
+                    "range": 4,
+                    "health": 1620,
+                    "mana": 50,
+                    "armor": 15,
+                    "mr": 15
+                }
+            }
+        },
+        "Maokai": {
+            "name": "Maokai",
+            "origin": [
+                "Shadow Isles"
+            ],
+            "class": [
+                "Bastion"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 30,
+                    "attackSpeed": 0.5,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 700,
+                    "mana": 125,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 54,
+                    "attackSpeed": 0.5,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1260,
+                    "mana": 125,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 97,
+                    "attackSpeed": 0.5,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 2268,
+                    "mana": 125,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "Nasus": {
+            "name": "Nasus",
+            "origin": [
+                "Shurima"
+            ],
+            "class": [
+                "Juggernaut"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 54,
+                    "attackSpeed": 0.6,
+                    "damage": 90,
+                    "range": 1,
+                    "health": 1000,
+                    "mana": 150,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "2": {
+                    "dps": 97,
+                    "attackSpeed": 0.6,
+                    "damage": 162,
+                    "range": 1,
+                    "health": 1800,
+                    "mana": 150,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "3": {
+                    "dps": 175,
+                    "attackSpeed": 0.6,
+                    "damage": 292,
+                    "range": 1,
+                    "health": 3240,
+                    "mana": 150,
+                    "armor": 60,
+                    "mr": 60
+                }
+            }
+        },
+        "Orianna": {
+            "name": "Orianna",
+            "origin": [
+                "Piltover"
+            ],
+            "class": [
+                "Sorcerer"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 28,
+                    "attackSpeed": 0.7,
+                    "damage": 40,
+                    "range": 4,
+                    "health": 500,
+                    "mana": 100,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "2": {
+                    "dps": 50,
+                    "attackSpeed": 0.7,
+                    "damage": 72,
+                    "range": 4,
+                    "health": 900,
+                    "mana": 100,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "3": {
+                    "dps": 91,
+                    "attackSpeed": 0.7,
+                    "damage": 130,
+                    "range": 4,
+                    "health": 1620,
+                    "mana": 100,
+                    "armor": 15,
+                    "mr": 15
+                }
+            }
+        },
+        "Poppy": {
+            "name": "Poppy",
+            "origin": [
+                "Demacia",
+                "Yordle"
+            ],
+            "class": [
+                "Bastion"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 25,
+                    "attackSpeed": 0.55,
+                    "damage": 45,
+                    "range": 1,
+                    "health": 600,
+                    "mana": 150,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 45,
+                    "attackSpeed": 0.55,
+                    "damage": 81,
+                    "range": 1,
+                    "health": 1080,
+                    "mana": 150,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 80,
+                    "attackSpeed": 0.55,
+                    "damage": 146,
+                    "range": 1,
+                    "health": 1944,
+                    "mana": 150,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "RekSai": {
+            "name": "RekSai",
+            "origin": [
+                "Void"
+            ],
+            "class": [
+                "Bruiser"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 46,
+                    "attackSpeed": 0.7,
+                    "damage": 65,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 75,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "2": {
+                    "dps": 82,
+                    "attackSpeed": 0.7,
+                    "damage": 117,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 75,
+                    "armor": 40,
+                    "mr": 40
+                },
+                "3": {
+                    "dps": 147,
+                    "attackSpeed": 0.7,
+                    "damage": 211,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 75,
+                    "armor": 40,
+                    "mr": 40
+                }
+            }
+        },
+        "Renekton": {
+            "name": "Renekton",
+            "origin": [
+                "Shurima"
+            ],
+            "class": [
+                "Bruiser"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 30,
+                    "attackSpeed": 0.6,
+                    "damage": 50,
+                    "range": 1,
+                    "health": 600,
+                    "mana": 120,
+                    "armor": 45,
+                    "mr": 45
+                },
+                "2": {
+                    "dps": 54,
+                    "attackSpeed": 0.6,
+                    "damage": 90,
+                    "range": 1,
+                    "health": 1080,
+                    "mana": 120,
+                    "armor": 45,
+                    "mr": 45
+                },
+                "3": {
+                    "dps": 97,
+                    "attackSpeed": 0.6,
+                    "damage": 162,
+                    "range": 1,
+                    "health": 1944,
+                    "mana": 120,
+                    "armor": 45,
+                    "mr": 45
+                }
+            }
+        },
+        "Ryze Demacia": {
+            "name": "Ryze Demacia",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Freljord": {
+            "name": "Ryze Freljord",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Shurima": {
+            "name": "Ryze Shurima",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Zaun": {
+            "name": "Ryze Zaun",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Piltover": {
+            "name": "Ryze Piltover",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 100,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 100,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 100,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Noxus": {
+            "name": "Ryze Noxus",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Ionia": {
+            "name": "Ryze Ionia",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Targon": {
+            "name": "Ryze Targon",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Bandle City": {
+            "name": "Ryze Bandle City",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 75,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 75,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 75,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Ryze Shadow Isles": {
+            "name": "Ryze Shadow Isles",
+            "origin": [
+                "Wanderer"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 43,
+                    "attackSpeed": 0.85,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 1111,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 77,
+                    "attackSpeed": 0.85,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 1999.8,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 138,
+                    "attackSpeed": 0.85,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 3599.64,
+                    "mana": 90,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Samira": {
+            "name": "Samira",
+            "origin": [
+                "Noxus"
+            ],
+            "class": [
+                "Challenger"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 35,
+                    "attackSpeed": 0.7,
+                    "damage": 50,
+                    "range": 4,
+                    "health": 500,
+                    "mana": 40,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "2": {
+                    "dps": 63,
+                    "attackSpeed": 0.7,
+                    "damage": 90,
+                    "range": 4,
+                    "health": 900,
+                    "mana": 40,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "3": {
+                    "dps": 113,
+                    "attackSpeed": 0.7,
+                    "damage": 162,
+                    "range": 4,
+                    "health": 1620,
+                    "mana": 40,
+                    "armor": 15,
+                    "mr": 15
+                }
+            }
+        },
+        "Sejuani": {
+            "name": "Sejuani",
+            "origin": [
+                "Freljord"
+            ],
+            "class": [
+                "Bruiser"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 36,
+                    "attackSpeed": 0.6,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 1000,
+                    "mana": 120,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "2": {
+                    "dps": 65,
+                    "attackSpeed": 0.6,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1800,
+                    "mana": 120,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "3": {
+                    "dps": 117,
+                    "attackSpeed": 0.6,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 3240,
+                    "mana": 120,
+                    "armor": 60,
+                    "mr": 60
+                }
+            }
+        },
+        "Senna": {
+            "name": "Senna",
+            "origin": [
+                "Shadow Isles"
+            ],
+            "class": [
+                "Gunner",
+                "Redeemer"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 52,
+                    "attackSpeed": 0.8,
+                    "damage": 65,
+                    "range": 4,
+                    "health": 900,
+                    "mana": 150,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 94,
+                    "attackSpeed": 0.8,
+                    "damage": 117,
+                    "range": 4,
+                    "health": 1620,
+                    "mana": 150,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 168,
+                    "attackSpeed": 0.8,
+                    "damage": 211,
+                    "range": 4,
+                    "health": 2916,
+                    "mana": 150,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Sett": {
+            "name": "Sett",
+            "origin": [
+                "Ionia"
+            ],
+            "class": [
+                "Juggernaut"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 36,
+                    "attackSpeed": 0.6,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 65,
+                    "attackSpeed": 0.6,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 117,
+                    "attackSpeed": 0.6,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Shen": {
+            "name": "Shen",
+            "origin": [
+                "Ionia"
+            ],
+            "class": [
+                "Bastion",
+                "Invoker"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 36,
+                    "attackSpeed": 0.6,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 1000,
+                    "mana": 140,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "2": {
+                    "dps": 65,
+                    "attackSpeed": 0.6,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1800,
+                    "mana": 140,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "3": {
+                    "dps": 117,
+                    "attackSpeed": 0.6,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 3240,
+                    "mana": 140,
+                    "armor": 60,
+                    "mr": 60
+                }
+            }
+        },
+        "Sion": {
+            "name": "Sion",
+            "origin": [
+                "Noxus"
+            ],
+            "class": [
+                "Bruiser"
+            ],
+            "cost": 5,
+            "rank": {
+                "1": {
+                    "dps": 42,
+                    "attackSpeed": 0.6,
+                    "damage": 70,
+                    "range": 1,
+                    "health": 1000,
+                    "mana": 160,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "2": {
+                    "dps": 76,
+                    "attackSpeed": 0.6,
+                    "damage": 126,
+                    "range": 1,
+                    "health": 1800,
+                    "mana": 160,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "3": {
+                    "dps": 136,
+                    "attackSpeed": 0.6,
+                    "damage": 227,
+                    "range": 1,
+                    "health": 3240,
+                    "mana": 160,
+                    "armor": 60,
+                    "mr": 60
+                }
+            }
+        },
+        "Sona": {
+            "name": "Sona",
+            "origin": [
+                "Demacia"
+            ],
+            "class": [
+                "Multicaster"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 26,
+                    "attackSpeed": 0.65,
+                    "damage": 40,
+                    "range": 4,
+                    "health": 700,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "2": {
+                    "dps": 47,
+                    "attackSpeed": 0.65,
+                    "damage": 72,
+                    "range": 4,
+                    "health": 1260,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "3": {
+                    "dps": 84,
+                    "attackSpeed": 0.65,
+                    "damage": 130,
+                    "range": 4,
+                    "health": 2268,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                }
+            }
+        },
+        "Soraka": {
+            "name": "Soraka",
+            "origin": [
+                "Targon"
+            ],
+            "class": [
+                "Invoker"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 36,
+                    "attackSpeed": 0.65,
+                    "damage": 55,
+                    "range": 4,
+                    "health": 700,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "2": {
+                    "dps": 64,
+                    "attackSpeed": 0.65,
+                    "damage": 99,
+                    "range": 4,
+                    "health": 1260,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "3": {
+                    "dps": 116,
+                    "attackSpeed": 0.65,
+                    "damage": 178,
+                    "range": 4,
+                    "health": 2268,
+                    "mana": 90,
+                    "armor": 25,
+                    "mr": 25
+                }
+            }
+        },
+        "Swain": {
+            "name": "Swain",
+            "origin": [
+                "Noxus"
+            ],
+            "class": [
+                "Sorcerer",
+                "Strategist"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 29,
+                    "attackSpeed": 0.65,
+                    "damage": 45,
+                    "range": 2,
+                    "health": 800,
+                    "mana": 100,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 53,
+                    "attackSpeed": 0.65,
+                    "damage": 81,
+                    "range": 2,
+                    "health": 1440,
+                    "mana": 100,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 95,
+                    "attackSpeed": 0.65,
+                    "damage": 146,
+                    "range": 2,
+                    "health": 2592,
+                    "mana": 100,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Taliyah": {
+            "name": "Taliyah",
+            "origin": [
+                "Shurima"
+            ],
+            "class": [
+                "Multicaster"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 28,
+                    "attackSpeed": 0.7,
+                    "damage": 40,
+                    "range": 4,
+                    "health": 550,
+                    "mana": 60,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "2": {
+                    "dps": 50,
+                    "attackSpeed": 0.7,
+                    "damage": 72,
+                    "range": 4,
+                    "health": 990,
+                    "mana": 60,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "3": {
+                    "dps": 91,
+                    "attackSpeed": 0.7,
+                    "damage": 130,
+                    "range": 4,
+                    "health": 1782,
+                    "mana": 60,
+                    "armor": 20,
+                    "mr": 20
+                }
+            }
+        },
+        "Taric": {
+            "name": "Taric",
+            "origin": [
+                "Targon"
+            ],
+            "class": [
+                "Bastion",
+                "Sorcerer"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 36,
+                    "attackSpeed": 0.6,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 65,
+                    "attackSpeed": 0.6,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 117,
+                    "attackSpeed": 0.6,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Teemo": {
+            "name": "Teemo",
+            "origin": [
+                "Yordle"
+            ],
+            "class": [
+                "Multicaster",
+                "Strategist"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 28,
+                    "attackSpeed": 0.7,
+                    "damage": 40,
+                    "range": 4,
+                    "health": 500,
+                    "mana": 50,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "2": {
+                    "dps": 50,
+                    "attackSpeed": 0.7,
+                    "damage": 72,
+                    "range": 4,
+                    "health": 900,
+                    "mana": 50,
+                    "armor": 20,
+                    "mr": 20
+                },
+                "3": {
+                    "dps": 91,
+                    "attackSpeed": 0.7,
+                    "damage": 130,
+                    "range": 4,
+                    "health": 1620,
+                    "mana": 50,
+                    "armor": 20,
+                    "mr": 20
+                }
+            }
+        },
+        "Tristana": {
+            "name": "Tristana",
+            "origin": [
+                "Yordle"
+            ],
+            "class": [
+                "Gunner"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 31,
+                    "attackSpeed": 0.7,
+                    "damage": 45,
+                    "range": 4,
+                    "health": 400,
+                    "mana": 40,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "2": {
+                    "dps": 57,
+                    "attackSpeed": 0.7,
+                    "damage": 81,
+                    "range": 4,
+                    "health": 720,
+                    "mana": 40,
+                    "armor": 15,
+                    "mr": 15
+                },
+                "3": {
+                    "dps": 102,
+                    "attackSpeed": 0.7,
+                    "damage": 146,
+                    "range": 4,
+                    "health": 1296,
+                    "mana": 40,
+                    "armor": 15,
+                    "mr": 15
+                }
+            }
+        },
+        "Urgot": {
+            "name": "Urgot",
+            "origin": [
+                "Zaun"
+            ],
+            "class": [
+                "Deadeye"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 53,
+                    "attackSpeed": 0.7,
+                    "damage": 75,
+                    "range": 1,
+                    "health": 1000,
+                    "mana": 100,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "2": {
+                    "dps": 95,
+                    "attackSpeed": 0.7,
+                    "damage": 135,
+                    "range": 1,
+                    "health": 1800,
+                    "mana": 100,
+                    "armor": 60,
+                    "mr": 60
+                },
+                "3": {
+                    "dps": 170,
+                    "attackSpeed": 0.7,
+                    "damage": 243,
+                    "range": 1,
+                    "health": 3240,
+                    "mana": 100,
+                    "armor": 60,
+                    "mr": 60
+                }
+            }
+        },
+        "Velkoz": {
+            "name": "Velkoz",
+            "origin": [
+                "Void"
+            ],
+            "class": [
+                "Multicaster",
+                "Sorcerer"
+            ],
+            "cost": 3,
+            "rank": {
+                "1": {
+                    "dps": 28,
+                    "attackSpeed": 0.7,
+                    "damage": 40,
+                    "range": 4,
+                    "health": 700,
+                    "mana": 60,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "2": {
+                    "dps": 50,
+                    "attackSpeed": 0.7,
+                    "damage": 72,
+                    "range": 4,
+                    "health": 1260,
+                    "mana": 60,
+                    "armor": 30,
+                    "mr": 30
+                },
+                "3": {
+                    "dps": 91,
+                    "attackSpeed": 0.7,
+                    "damage": 130,
+                    "range": 4,
+                    "health": 2268,
+                    "mana": 60,
+                    "armor": 30,
+                    "mr": 30
+                }
+            }
+        },
+        "Vi": {
+            "name": "Vi",
+            "origin": [
+                "Piltover"
+            ],
+            "class": [
+                "Bruiser"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 36,
+                    "attackSpeed": 0.6,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 80,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 65,
+                    "attackSpeed": 0.6,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 80,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 117,
+                    "attackSpeed": 0.6,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 80,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Viego": {
+            "name": "Viego",
+            "origin": [
+                "Shadow Isles"
+            ],
+            "class": [
+                "Rogue"
+            ],
+            "cost": 1,
+            "rank": {
+                "1": {
+                    "dps": 34,
+                    "attackSpeed": 0.75,
+                    "damage": 45,
+                    "range": 1,
+                    "health": 600,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "2": {
+                    "dps": 61,
+                    "attackSpeed": 0.75,
+                    "damage": 81,
+                    "range": 1,
+                    "health": 1080,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "3": {
+                    "dps": 109,
+                    "attackSpeed": 0.75,
+                    "damage": 146,
+                    "range": 1,
+                    "health": 1944,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                }
+            }
+        },
+        "Warwick": {
+            "name": "Warwick",
+            "origin": [
+                "Zaun"
+            ],
+            "class": [
+                "Challenger",
+                "Juggernaut"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 30,
+                    "attackSpeed": 0.75,
+                    "damage": 40,
+                    "range": 1,
+                    "health": 800,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 54,
+                    "attackSpeed": 0.75,
+                    "damage": 72,
+                    "range": 1,
+                    "health": 1440,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 97,
+                    "attackSpeed": 0.75,
+                    "damage": 130,
+                    "range": 1,
+                    "health": 2592,
+                    "mana": 90,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Yasuo": {
+            "name": "Yasuo",
+            "origin": [
+                "Ionia"
+            ],
+            "class": [
+                "Challenger"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 60,
+                    "attackSpeed": 0.8,
+                    "damage": 75,
+                    "range": 1,
+                    "health": 950,
+                    "mana": 110,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "2": {
+                    "dps": 108,
+                    "attackSpeed": 0.8,
+                    "damage": 135,
+                    "range": 1,
+                    "health": 1710,
+                    "mana": 110,
+                    "armor": 50,
+                    "mr": 50
+                },
+                "3": {
+                    "dps": 194,
+                    "attackSpeed": 0.8,
+                    "damage": 243,
+                    "range": 1,
+                    "health": 3078,
+                    "mana": 110,
+                    "armor": 50,
+                    "mr": 50
+                }
+            }
+        },
+        "Zed": {
+            "name": "Zed",
+            "origin": [
+                "Ionia"
+            ],
+            "class": [
+                "Rogue",
+                "Slayer"
+            ],
+            "cost": 2,
+            "rank": {
+                "1": {
+                    "dps": 42,
+                    "attackSpeed": 0.7,
+                    "damage": 60,
+                    "range": 1,
+                    "health": 600,
+                    "mana": 70,
+                    "armor": 35,
+                    "mr": 35
+                },
+                "2": {
+                    "dps": 76,
+                    "attackSpeed": 0.7,
+                    "damage": 108,
+                    "range": 1,
+                    "health": 1080,
+                    "mana": 70,
+                    "armor": 35,
+                    "mr": 35
+                },
+                "3": {
+                    "dps": 136,
+                    "attackSpeed": 0.7,
+                    "damage": 194,
+                    "range": 1,
+                    "health": 1944,
+                    "mana": 70,
+                    "armor": 35,
+                    "mr": 35
+                }
+            }
+        },
+        "Zeri": {
+            "name": "Zeri",
+            "origin": [
+                "Zaun"
+            ],
+            "class": [
+                "Gunner"
+            ],
+            "cost": 4,
+            "rank": {
+                "1": {
+                    "dps": 48,
+                    "attackSpeed": 0.8,
+                    "damage": 60,
+                    "range": 4,
+                    "health": 750,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "2": {
+                    "dps": 86,
+                    "attackSpeed": 0.8,
+                    "damage": 108,
+                    "range": 4,
+                    "health": 1350,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                },
+                "3": {
+                    "dps": 156,
+                    "attackSpeed": 0.8,
+                    "damage": 194,
+                    "range": 4,
+                    "health": 2430,
+                    "mana": 50,
+                    "armor": 25,
+                    "mr": 25
+                }
+            }
+        }
+    }
+}

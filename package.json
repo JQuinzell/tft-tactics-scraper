@@ -1,0 +1,17 @@
+{
+  "name": "tft-tactics-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.16.0",
+    "playwright": "^1.35.1",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.35.1",
+    "@types/node": "^20.3.3"
+  },
+  "scripts": {}
+}
